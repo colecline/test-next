@@ -12,8 +12,6 @@ export default function Button() {
           <a href="/security">Security</a>
           <a href="/integrations">Integrations</a>
         </div>
-
-        <img src="/solutions.jpg" alt="" />
       </Popover.Panel>
     </Popover>
     )
